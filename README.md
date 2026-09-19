@@ -3,9 +3,10 @@
 >  AI / LLM 应用探索 | 自托管玩家
 
 - 🔭 正在做:**PentAGI 多智能体系统部署实战笔记**(中文教程向,持续更新)
-- 🌱 正在学:LLM 应用开发 · Docker 自托管 · CTF 安全基础
+- 🌱 正在学:HarmonyOS 应用开发(ArkTS/DevEco) · LLM 应用开发 · CTF 安全基础
 - 🛠 常用:`Python` `JavaScript` `HTML` `Docker` `Git`
 - 📦 同步维护 [Gitee 镜像](https://gitee.com/liu-zhiqiang20030520)
+- ✍️ 技术文章:[知乎 @义不艮将](https://www.zhihu.com/people/yi-bu-gen-jiang) | 掘金 @liuzhiqiang23
 
 ## 📌 精选仓库
 
