@@ -14,7 +14,8 @@
 <p align="center">
   <sub>👆 会动的 3D 全息闪卡 · 照片/立绘 → 四层拆解 → Blender 240 帧渲染 → 微信可直接发的 GIF/MP4 ·
   <a href="https://github.com/zai-org/zcode-plugins/pull/21">已打包上架 ZCode 插件市场（PR #21）</a> ·
-  <a href="https://github.com/HRuiCcc/RuiC-card-skill/pull/7">回传上游的修复 PR #7</a></sub>
+  <a href="https://github.com/HRuiCcc/RuiC-card-skill/pull/7">回传上游的修复 PR #7</a> ·
+  <a href="https://github.com/liuzhiqiang23/RuiC-card-skill#安装到-deepseek-harnessdsh">已实测适配 DeepSeek Harness（dsh）</a></sub>
 </p>
 
 ---
@@ -34,7 +35,7 @@
 | 仓库 | 说明 |
 |------|------|
 | [pentagi--AI--notes](https://github.com/liuzhiqiang23/pentagi--AI--notes) | PentAGI 多智能体系统部署实战笔记(中文) |
-| [RuiC-card-skill](https://github.com/liuzhiqiang23/RuiC-card-skill) | 全息闪卡技能(fork 自 [HRuiCcc](https://github.com/HRuiCcc/RuiC-card-skill),MIT;ZCode 插件打包见 PR #21) |
+| [RuiC-card-skill](https://github.com/liuzhiqiang23/RuiC-card-skill) | 全息闪卡技能(fork 自 [HRuiCcc](https://github.com/HRuiCcc/RuiC-card-skill),MIT;ZCode 插件打包见 PR #21,已实测适配 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)) |
 | [chuanmeishujuguanlixitong](https://github.com/liuzhiqiang23/chuanmeishujuguanlixitong) | 传媒数据管理系统(课程项目) |
 | [artificial-intelligent-created-system](https://github.com/liuzhiqiang23/artificial-intelligent-created-system) | AI 内容创建系统(课程项目) |
 
