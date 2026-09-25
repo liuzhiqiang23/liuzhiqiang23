@@ -38,11 +38,6 @@
 | [chuanmeishujuguanlixitong](https://github.com/liuzhiqiang23/chuanmeishujuguanlixitong) | 传媒数据管理系统(课程项目) |
 | [artificial-intelligent-created-system](https://github.com/liuzhiqiang23/artificial-intelligent-created-system) | AI 内容创建系统(课程项目) |
 
-## 📊 统计
-
-![stats](https://github-readme-stats.vercel.app/api?username=liuzhiqiang23&amp;show_icons=true&amp;hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuzhiqiang23&amp;layout=compact&amp;hide_border=true)
-
 ## 🐍 贡献贪吃蛇
 
 <picture>
