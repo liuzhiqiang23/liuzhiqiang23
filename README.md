@@ -30,6 +30,19 @@
 - 📦 同步维护 [Gitee 镜像](https://gitee.com/liu-zhiqiang20030520)
 - ✍️ 技术文章:[知乎 @义不艮将](https://www.zhihu.com/people/yi-bu-gen-jiang) | 掘金 @liuzhiqiang23
 
+## 🎬 我的作品集视频（AI 全自动剪辑）
+
+<p align="center">
+  <a href="assets/gh-reel.mp4">
+    <img src="assets/gh-reel-preview.gif" width="32%" alt="GitHub 作品集竖屏视频预览：主页与作品截图 + 故障风转场 + 科技电子 BGM">
+  </a>
+</p>
+<p align="center">
+  <sub>👆 预览（前 10 秒）· <a href="assets/gh-reel.mp4">▶️ 观看完整版 1080×1920 / 24.6s</a> ·
+  由 AI 代理从截图采集 → ffmpeg 画布 → 剪映草稿 → 导出全流程自动完成 ·
+  <a href="https://zhuanlan.zhihu.com/p/2086965296661784206">制作全流程拆解（知乎）</a></sub>
+</p>
+
 ## 📌 精选仓库
 
 | 仓库 | 说明 |
