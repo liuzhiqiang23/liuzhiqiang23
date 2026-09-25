@@ -1,0 +1,33 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "47 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate theme-aware contribution SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: liuzhiqiang23
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23E05252&color_dots=%23E8EEF2,%23C9EFE3,%238FE8D2,%232DD4BF,%238B5CF6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F0B35C&color_dots=%23131D25,%231D3541,%23345D68,%232DD4BF,%23F0B35C
+
+      - name: Publish generated SVGs to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+          keep_files: false

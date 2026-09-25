@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="288" viewBox="0 0 960 288" role="img" aria-labelledby="t d">
+  <title id="t">liuzhiqiang23 — holographic card studio</title>
+  <desc id="d">A graphite identity card for liuzhiqiang23. Left: the studio name and the pipeline "photo to moving 3D holographic card" with a holographic spectrum band. Right: three exploded card layers (background, subject, text) drawn as offset rounded rectangles connected along the parallax path.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1B2934" stroke-width="1" opacity=".55"/>
+    </pattern>
+    <linearGradient id="holo" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset=".35" stop-color="#2DD4BF"/>
+      <stop offset=".7" stop-color="#F0C46B"/>
+      <stop offset="1" stop-color="#E05252"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset=".5" stop-color="#8FE8D2"/>
+      <stop offset="1" stop-color="#F0B35C"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="286" rx="22" fill="#0D141B" stroke="#2B3947" stroke-width="2"/>
+  <rect x="2" y="2" width="956" height="284" rx="21" fill="url(#grid)" opacity=".45"/>
+
+  <text x="64" y="82" fill="#8EA1B1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2.4">LIUZHIQIANG23 / HOLO-CARD STUDIO</text>
+  <text x="64" y="134" fill="#F4F7FA" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="34" font-weight="700">会动的 <tspan fill="#8FE8D2">3D 全息闪卡</tspan></text>
+  <text x="64" y="166" fill="#9AA8B6" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="14">照片 · rembg 四层拆解 · Blender 渲染 · 微信规格交付</text>
+
+  <text x="64" y="208" fill="#8293A2" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.8">HOLOGRAPHIC SPECTRUM</text>
+  <rect x="64" y="216" width="300" height="8" rx="4" fill="url(#holo)"/>
+  <path d="M64 248 C104 238 134 242 164 246 S224 254 254 242 S314 232 364 244" fill="none" stroke="url(#trace)" stroke-width="3" stroke-linecap="round"/>
+
+  <rect x="500" y="78" width="200" height="128" rx="12" fill="#101B24" stroke="#2DD4BF" stroke-width="1.5" opacity=".9"/>
+  <text x="512" y="102" fill="#7FE3C9" font-family="ui-monospace, Consolas, monospace" font-size="11">L0 · BACKGROUND −0.12</text>
+  <rect x="556" y="100" width="200" height="128" rx="12" fill="#0F1A26" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="568" y="124" fill="#C4B5FD" font-family="ui-monospace, Consolas, monospace" font-size="11">L1 · SUBJECT +0.15</text>
+  <rect x="612" y="122" width="200" height="128" rx="12" fill="#0D141B" stroke="#F0C46B" stroke-width="1.5" opacity=".9"/>
+  <text x="624" y="146" fill="#F0D9A0" font-family="ui-monospace, Consolas, monospace" font-size="11">L3 · TEXT 贴边</text>
+  <path d="M600 206 L656 228 M656 228 L712 250" fill="none" stroke="#345D68" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="716" y="270" fill="#8293A2" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1.2">PARALLAX · DRAG TO ROTATE</text>
+</svg>
