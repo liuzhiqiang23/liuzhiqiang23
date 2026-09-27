@@ -32,8 +32,8 @@
     <rect x="35" y="12" width="4" height="14" rx="2"/>
   </g>
 
-  <text x="116" y="33" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="bold" fill="#F2F6F9">BGM · 三枪打死麻辣烫</text>
-  <text x="116" y="54" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="11.5" fill="#7A8B9A">加麻不加辣 · 阿厦 DJ 原版 —— 点我去网易云播放 ▶</text>
+  <text x="116" y="33" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="bold" fill="#F2F6F9">BGM · 国民党党歌（DJ 版）</text>
+  <text x="116" y="54" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="11.5" fill="#7A8B9A">三枪打死麻辣烫 · 阿厦短剧原声 —— 点我去抖音听 ▶</text>
 
   <!-- 进度条 -->
   <line x1="36" y1="66" x2="444" y2="66" stroke="#223140" stroke-width="3" stroke-linecap="round"/>
