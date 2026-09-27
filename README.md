@@ -12,6 +12,12 @@
   </a>
 </p>
 <p align="center">
+  <a href="https://music.163.com/#/song?id=3402952493" title="主页 BGM：三枪打死麻辣烫（加麻不加辣 DJ 版）— 点击去网易云播放">
+    <img src="assets/bgm-player.svg" width="420" alt="BGM 播放器：三枪打死麻辣烫 · 加麻不加辣 DJ 版，点击前往网易云播放">
+  </a>
+</p>
+
+<p align="center">
   <sub>👆 会动的 3D 全息闪卡 · 照片/立绘 → 四层拆解 → Blender 240 帧渲染 → 微信可直接发的 GIF/MP4 ·
   <a href="https://github.com/zai-org/zcode-plugins/pull/21">已打包上架 ZCode 插件市场（PR #21）</a> ·
   <a href="https://github.com/HRuiCcc/RuiC-card-skill/pull/7">回传上游的修复 PR #7</a> ·
