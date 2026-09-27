@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://music.163.com/#/song?id=3402952493" title="主页 BGM：三枪打死麻辣烫（加麻不加辣 DJ 版）— 点击去网易云播放">
+  <a href="https://music.163.com/#/song?id=3410203158" title="主页 BGM：三枪打死麻辣烫（加麻不加辣 DJ 版）— 点击去网易云播放">
     <img src="assets/bgm-player.svg" width="420" alt="BGM 播放器：三枪打死麻辣烫 · 加麻不加辣 DJ 版，点击前往网易云播放">
   </a>
 </p>
