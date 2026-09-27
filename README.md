@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/liuzhiqiang23/RuiC-card-skill">
-    <img src="assets/demo-loop.webp" width="52%" alt="全息闪卡演示（动漫主角）：卡片随视角流光、多层视差、可拖拽翻面">
+  <a href="https://www.douyin.com/video/7662327456631932322" title="主页 BGM：三枪打死麻辣烫（DJ 版）· 阿厦短剧原声 — 点击去抖音听">
+    <img src="assets/bgm-player.svg" width="470" alt="BGM 播放器：三枪打死麻辣烫 DJ 版 · 阿厦短剧原声，点击前往抖音播放">
   </a>
 </p>
 <p align="center">
-  <a href="https://www.douyin.com/video/7662327456631932322" title="主页 BGM：国民党党歌（DJ 版）· 三枪打死麻辣烫短剧原声 — 点击去抖音播放">
-    <img src="assets/bgm-player.svg" width="420" alt="BGM 播放器：国民党党歌 DJ 版 · 三枪打死麻辣烫短剧原声，点击前往抖音播放">
+  <a href="https://github.com/liuzhiqiang23/RuiC-card-skill">
+    <img src="assets/demo-loop.webp" width="52%" alt="全息闪卡演示（动漫主角）：卡片随视角流光、多层视差、可拖拽翻面">
   </a>
 </p>
 
