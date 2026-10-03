@@ -38,6 +38,28 @@
 - 📦 同步维护 [Gitee 镜像](https://gitee.com/liu-zhiqiang20030520)
 - ✍️ 技术文章:[知乎 @义不艮将](https://www.zhihu.com/people/yi-bu-gen-jiang) | 掘金 @liuzhiqiang23
 
+## 🎮 精选游戏：《重生之我在方块位面当光之巨人》
+
+> **3D 体素沙盒生存游戏** —— 类我的世界方块世界 × 变身光之巨人打怪兽
+> **零外部素材**：贴图、角色、怪兽、音效全部由代码程序化生成
+
+### ▶ 在线试玩（电脑浏览器打开即玩，无需安装）
+
+# **[liuzhiqiang23.github.io/light-giant](https://liuzhiqiang23.github.io/light-giant/)**
+
+![白天世界](https://raw.githubusercontent.com/liuzhiqiang23/light-giant/main/screenshots/day-world.jpg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liuzhiqiang23/light-giant/main/screenshots/giant-form.jpg" width="49%" alt="变身光之巨人" />
+  <img src="https://raw.githubusercontent.com/liuzhiqiang23/light-giant/main/screenshots/night-boss.jpg" width="49%" alt="夜晚Boss降临" />
+</p>
+
+**✨ 亮点**：512×512 多生物群系世界（草原/沙漠/密林/雪山/天堂岛）· 巨人战斗系统（能量炮弹/蓄力激光/锁定飞踢/三连拳击/巨大化）· 昼夜玩法循环（白天建造、夜晚守卫神殿、黎明战损复原）· 全程序化音效 · 89 万方块实例 60fps
+
+**📦 源码**：[GitHub](https://github.com/liuzhiqiang23/light-giant) · [Gitee 镜像](https://gitee.com/liu-zhiqiang20030520/light-giant) · 仓库内含微信小游戏移植版（minigame/）
+
+---
+
 ## 🎬 我的作品集视频（AI 全自动剪辑）
 
 <p align="center">
@@ -55,6 +77,7 @@
 
 | 仓库 | 说明 |
 |------|------|
+| [light-giant](https://github.com/liuzhiqiang23/light-giant) | 🎮 **3D 体素沙盒游戏《光之巨人》**——[在线试玩](https://liuzhiqiang23.github.io/light-giant/)，零素材全程序化，含微信小游戏版 |
 | [pentagi--AI--notes](https://github.com/liuzhiqiang23/pentagi--AI--notes) | PentAGI 多智能体系统部署实战笔记(中文) |
 | [RuiC-card-skill](https://github.com/liuzhiqiang23/RuiC-card-skill) | 全息闪卡技能(fork 自 [HRuiCcc](https://github.com/HRuiCcc/RuiC-card-skill),MIT;ZCode 插件打包见 PR #21,已实测适配 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)) |
 | [chuanmeishujuguanlixitong](https://github.com/liuzhiqiang23/chuanmeishujuguanlixitong) | 传媒数据管理系统(课程项目) |
