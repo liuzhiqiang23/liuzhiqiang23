@@ -114,3 +114,25 @@
   <img src="assets/wechat-reward.png" width="220" alt="微信赞赏码" />
   <p><sub>这些笔记与工具如果帮到了你,微信扫码请杯咖啡 ☕</sub></p>
 </div>
+
+---
+
+## 🎓 毕业设计 · 历代诗人知识图谱问答系统（Poet-KGQA）
+
+> 把《全唐诗》读"厚"：57,607 首诗建图 · Neo4j + FAISS 双轨检索 · BERT NER 消歧 · DeepSeek 证据化生成 · 水墨风三页界面
+
+<p align="center">
+  <a href="https://liuzhiqiang23.github.io/poet-kgqa/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90-%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E9%A1%B5-9d3b28" alt="项目展示页">
+  </a>&nbsp;
+  <a href="https://github.com/liuzhiqiang23/poet-kgqa">
+    <img src="https://img.shields.io/badge/GitHub-poet--kgqa-24292f" alt="GitHub 仓库">
+  </a>&nbsp;
+  <a href="https://gitee.com/liu-zhiqiang20030520/poet-kgqa">
+    <img src="https://img.shields.io/badge/Gitee-poet--kgqa-c71d23" alt="Gitee 仓库">
+  </a>
+</p>
+
+- 🖥 **在线展示**：[liuzhiqiang23.github.io/poet-kgqa](https://liuzhiqiang23.github.io/poet-kgqa/) —— 三页界面截图、功能与实验结果
+- 🧪 图谱约束使回答一致性 **66% → 100%**（n=100）；检索消融 **80.0% vs 13.3%**（hit@3）
+- 📜 全唐诗 57,607 首 / 诗人 3,662 位 / 交游边 138 条全部人工复核
