@@ -133,6 +133,7 @@
   </a>
 </p>
 
+- 🚀 **在线试用**（电脑开机期间开放）：[点这里直接提问](https://sister-individual-jacksonville-patents.trycloudflare.com) —— 问"杜甫和李白是什么关系"试试
 - 🖥 **在线展示**：[liuzhiqiang23.github.io/poet-kgqa](https://liuzhiqiang23.github.io/poet-kgqa/) —— 三页界面截图、功能与实验结果
 - 🧪 图谱约束使回答一致性 **66% → 100%**（n=100）；检索消融 **80.0% vs 13.3%**（hit@3）
 - 📜 全唐诗 57,607 首 / 诗人 3,662 位 / 交游边 138 条全部人工复核
