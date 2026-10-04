@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://movie.jszzbinfo.cn/poet/"><b>🎓 历代诗人知识图谱问答系统 · 在线体验（点击直接提问）</b></a><br>
+  <sub>57,607 首全唐诗建图 · 问「杜甫和李白是什么关系」试试 · <a href="https://liuzhiqiang23.github.io/poet-kgqa/">项目展示页</a> · 毕业设计</sub>
+</p>
+
 <p align="center"><a href="https://liuzhiqiang23.github.io/"><b>🌐 我的个人网站：liuzhiqiang23.github.io</b></a></p>
 
 <div align="center">
