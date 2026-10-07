@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://movie.jszzbinfo.cn/poet/"><b>🎓 历代诗人知识图谱问答系统 · 在线体验（点击直接提问）</b></a><br>
+  <a href="https://movie.jszzbinfo.cn/poet/"><b>🎓 诗人知识问答与对话系统 · 在线体验（点击直接提问）</b></a><br>
   <sub>57,607 首全唐诗建图 · 问「杜甫和李白是什么关系」试试 · <a href="https://liuzhiqiang23.github.io/poet-kgqa/">项目展示页</a> · 毕业设计</sub>
 </p>
 
@@ -122,7 +122,7 @@
 
 ---
 
-## 🎓 毕业设计 · 历代诗人知识图谱问答系统（Poet-KGQA）
+## 🎓 毕业设计 · 诗人知识问答与对话系统（Poet-KGQA）
 
 > 把《全唐诗》读"厚"：57,607 首诗建图 · Neo4j + FAISS 双轨检索 · BERT NER 消歧 · DeepSeek 证据化生成 · 水墨风三页界面
 
