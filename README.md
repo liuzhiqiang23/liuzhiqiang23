@@ -3,6 +3,8 @@
   <sub>57,607 首全唐诗建图 · 问「杜甫和李白是什么关系」试试 · <a href="https://liuzhiqiang23.github.io/poet-kgqa/">项目展示页</a> · 毕业设计</sub>
 </p>
 
+<p align="center"><b><a href="./README_EN.md">English</a> | 中文</b></p>
+
 <p align="center"><a href="https://liuzhiqiang23.github.io/"><b>🌐 我的个人网站：liuzhiqiang23.github.io</b></a></p>
 
 <div align="center">
