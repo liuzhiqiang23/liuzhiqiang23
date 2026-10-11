@@ -42,7 +42,6 @@
 - 🔭 正在做:**PentAGI 多智能体系统部署实战笔记**(中文教程向,持续更新) + **全息闪卡照片流水线**(rembg 抠图 · Blender 渲染 · 微信规格压制)
 - 🌱 正在学:HarmonyOS 应用开发(ArkTS/DevEco) · LLM 应用开发 · CTF 安全基础
 - 🛠 常用:`Python` `JavaScript` `HTML` `Docker` `Git`
-- 📦 同步维护 [Gitee 镜像](https://gitee.com/liu-zhiqiang20030520)
 - ✍️ 技术文章:[知乎 @义不艮将](https://www.zhihu.com/people/yi-bu-gen-jiang) | 掘金 @liuzhiqiang23
 
 ## 🎮 精选游戏：《重生之我在方块位面当光之巨人》
@@ -63,7 +62,7 @@
 
 **✨ 亮点**：512×512 多生物群系世界（草原/沙漠/密林/雪山/天堂岛）· 巨人战斗系统（能量炮弹/蓄力激光/锁定飞踢/三连拳击/巨大化）· 昼夜玩法循环（白天建造、夜晚守卫神殿、黎明战损复原）· 全程序化音效 · 89 万方块实例 60fps
 
-**📦 源码**：[GitHub](https://github.com/liuzhiqiang23/light-giant) · [Gitee 镜像](https://gitee.com/liu-zhiqiang20030520/light-giant) · 仓库内含微信小游戏移植版（minigame/）
+**📦 源码**：[GitHub](https://github.com/liuzhiqiang23/light-giant) · 仓库内含微信小游戏移植版（minigame/）
 
 ---
 
@@ -134,9 +133,6 @@
   </a>&nbsp;
   <a href="https://github.com/liuzhiqiang23/poet-kgqa">
     <img src="https://img.shields.io/badge/GitHub-poet--kgqa-24292f" alt="GitHub 仓库">
-  </a>&nbsp;
-  <a href="https://gitee.com/liu-zhiqiang20030520/poet-kgqa">
-    <img src="https://img.shields.io/badge/Gitee-poet--kgqa-c71d23" alt="Gitee 仓库">
   </a>
 </p>
 

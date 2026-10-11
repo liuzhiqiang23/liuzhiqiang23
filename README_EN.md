@@ -6,7 +6,7 @@
 
 I build practical projects around AI agents, local LLMs, media tools, and developer workflows. I am learning HarmonyOS app development and foundational security through hands-on projects.
 
-- **Projects:** browse my work on [GitHub](https://github.com/liuzhiqiang23) and the [Gitee mirror](https://gitee.com/liu-zhiqiang20030520).
+- **Projects:** browse my work on [GitHub](https://github.com/liuzhiqiang23).
 - **Writing:** technical articles on [Zhihu](https://www.zhihu.com/people/yi-bu-gen-jiang) and Juejin.
 - **Portfolio video:** an AI-edited vertical tour of selected projects is available in [assets/gh-reel.mp4](assets/gh-reel.mp4); the [production walkthrough](https://zhuanlan.zhihu.com/p/2086965296661784206) is on Zhihu.
 
@@ -54,4 +54,4 @@ Python · Java / Spring Boot · JavaScript · Docker · MySQL · HarmonyOS / Ark
 
 ---
 
-[GitHub](https://github.com/liuzhiqiang23) · [Gitee](https://gitee.com/liu-zhiqiang20030520) · [Zhihu](https://www.zhihu.com/people/yi-bu-gen-jiang)
+[GitHub](https://github.com/liuzhiqiang23) · [Zhihu](https://www.zhihu.com/people/yi-bu-gen-jiang)
