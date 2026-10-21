@@ -1,57 +1,51 @@
-# Hello, I'm liuzhiqiang23 👋
+# Hi, I’m Zhiqiang Liu · liuzhiqiang23 👋
 
-**[English](./README_EN.md) | [中文](./README.md)**
+**Student developer · Applied AI / LLM exploration · Creative tools and self-hosting**
 
-> AI/LLM applications · Self-hosted systems · Security learning
+I turn ideas into working projects, from poet Q&A and movie analytics to browser games and holographic cards. I learn through implementation and document deployment steps and problems along the way.
 
-I build practical projects around AI agents, local LLMs, media tools, and developer workflows. I am learning HarmonyOS app development and foundational security through hands-on projects.
+**[🌐 Bilingual portfolio](https://liuzhiqiang23-portfolio.gardenbard4.chatgpt.site/?lang=en) · [中文](./README.md) · [Zhihu](https://www.zhihu.com/people/yi-bu-gen-jiang)**
 
-- **Projects:** browse my work on [GitHub](https://github.com/liuzhiqiang23).
-- **Writing:** technical articles on [Zhihu](https://www.zhihu.com/people/yi-bu-gen-jiang) and Juejin.
-- **Portfolio video:** an AI-edited vertical tour of selected projects is available in [assets/gh-reel.mp4](assets/gh-reel.mp4); the [production walkthrough](https://zhuanlan.zhihu.com/p/2086965296661784206) is on Zhihu.
+The portfolio introduces selected work and demos; this profile links public source code, technical details and development records.
 
-## Featured projects
+## Featured work
 
-### Poet knowledge graph and Q&A
+### 01 · Poet knowledge & dialogue (Poet-KGQA)
 
-An undergraduate capstone that combines a knowledge graph, semantic retrieval, and an LLM to answer questions about Tang dynasty poets. It indexes 57,607 poems and 3,662 poets, with Neo4j and FAISS retrieval, BERT-based entity disambiguation, and evidence-grounded generation.
+My graduation project combines a knowledge graph, semantic retrieval and an LLM for poet Q&A, relationship exploration and dialogue, built on 57,607 Tang poems. Technologies include Python, Neo4j, FAISS and DeepSeek.
 
-- [Try the live Q&A](https://movie.jszzbinfo.cn/poet/)
-- [Project showcase](https://liuzhiqiang23.github.io/poet-kgqa/)
-- [Source repository](https://github.com/liuzhiqiang23/poet-kgqa)
+**[Try live](https://movie.jszzbinfo.cn/poet/)** · No public source-code link is currently provided.
 
-### Light Giant: a voxel sandbox game
+### 02 · Light Giant · Voxel World
 
-A browser-playable, Minecraft-inspired 3D voxel survival game. Build and explore a procedural world, then transform into a giant to defend a temple from monsters. Textures, characters, monsters, and sound effects are generated in code rather than bundled as external assets.
+A JavaScript / Three.js voxel survival sandbox: explore and build by day, defend a temple and battle monsters at night. Textures, characters and sounds are generated procedurally. A desktop browser is recommended.
 
-- [Play in a browser](https://liuzhiqiang23.github.io/light-giant/)
-- [Source repository](https://github.com/liuzhiqiang23/light-giant)
+**[Play in browser](https://liuzhiqiang23.github.io/light-giant/) · [Source](https://github.com/liuzhiqiang23/light-giant)**
 
-### Holographic card skill
+### 03 · Holographic card experiments
 
-An agent skill that turns a prompt or reference image into a layered, interactive 3D holographic card, with an editable Blender project and a browser viewer. See [RuiC-card-skill](https://github.com/liuzhiqiang23/RuiC-card-skill); it is forked from [HRuiCcc/RuiC-card-skill](https://github.com/HRuiCcc/RuiC-card-skill).
+Experiments with layered photos, Blender rendering, interactive web viewers and GIF / MP4 delivery. The original project is [HRuiCcc/RuiC-card-skill](https://github.com/HRuiCcc/RuiC-card-skill), licensed under MIT. My work covers hands-on use, host adaptation, fixes and plugin packaging.
 
-## Selected repositories
+**[Adaptation repository](https://github.com/liuzhiqiang23/RuiC-card-skill) · [ZCode marketplace PR #21 — awaiting review](https://github.com/zai-org/zcode-plugins/pull/21) · [Upstream fix PR #7](https://github.com/HRuiCcc/RuiC-card-skill/pull/7)**
 
-| Repository | What it contains |
-|---|---|
-| [light-giant](https://github.com/liuzhiqiang23/light-giant) | Browser-playable 3D voxel sandbox game and WeChat Mini Game port |
-| [pentagi--AI--notes](https://github.com/liuzhiqiang23/pentagi--AI--notes) | Sanitized, hands-on notes on deploying PentAGI and an authorized security lab |
-| [RuiC-card-skill](https://github.com/liuzhiqiang23/RuiC-card-skill) | Fork of an agent skill for generating holographic cards |
-| [chuanmeishujuguanlixitong](https://github.com/liuzhiqiang23/chuanmeishujuguanlixitong) | Media data management and recommendation course project |
-| [artificial-intelligent-created-system](https://github.com/liuzhiqiang23/artificial-intelligent-created-system) | Local LLM deployment and document Q&A course project |
-| [miniprogram-dev-deploy-notes](https://github.com/liuzhiqiang23/miniprogram-dev-deploy-notes) | End-to-end notes on taking a WeChat Mini Program from local development to cloud deployment |
+## More projects and practice
 
-## Skills and tools
+| Project | Scope and links |
+| --- | --- |
+| Movie analytics & recommendations | Cleaning, EDA, prediction, recommendations and Java / Python integration, extended through WeChat mini-program practice. [Source and documentation](https://github.com/liuzhiqiang23/chuanmeishujuguanlixitong). The repository retains its earlier name; mini-program release status depends on the actual review outcome. |
+| Local models & document Q&A | Coursework using Ollama, LlamaIndex, Flask and LangChain: local inference, document embeddings, retrieval and a web Q&A interface. [Source and practice records](https://github.com/liuzhiqiang23/artificial-intelligent-created-system) |
+| Photo-to-GIF stickers | Experiments with likeness-preserving edits, animation, captions and file-size compression. [Source](https://github.com/liuzhiqiang23/gif-sticker-maker-free) |
+| PentAGI deployment notes | Hands-on deployment and learning notes for a third-party multi-agent system. [Read the notes](https://github.com/liuzhiqiang23/pentagi--AI--notes) |
+| Mini-program development & deployment | Notes on local development, tunneling, domains, HTTPS and filing procedures. [Read the notes](https://github.com/liuzhiqiang23/miniprogram-dev-deploy-notes) |
 
-Python · Java / Spring Boot · JavaScript · Docker · MySQL · HarmonyOS / ArkTS · WeChat Mini Programs · Three.js · ffmpeg · video-editing automation · AI workflows and RAG · Git
+## Tools and interests
 
-## Current interests
+Python · Java / Spring Boot · JavaScript · HTML / CSS · Docker · MySQL · Neo4j · FAISS · Git
 
-- Building and documenting “A Qiang Watches Movies,” a WeChat Mini Program with an AI support assistant.
-- Exploring small original games and practical agent workflows.
-- Sharing technical notes on Zhihu.
+Exploring applied AI / LLMs, RAG, creative interaction, HarmonyOS / ArkTS and self-hosted tools.
+
+[Portfolio video](assets/gh-reel.mp4) · [Production walkthrough](https://zhuanlan.zhihu.com/p/2086965296661784206)
 
 ---
 
-[GitHub](https://github.com/liuzhiqiang23) · [Zhihu](https://www.zhihu.com/people/yi-bu-gen-jiang)
+[Main portfolio](https://liuzhiqiang23-portfolio.gardenbard4.chatgpt.site/?lang=en) · [Earlier GitHub Pages site](https://liuzhiqiang23.github.io/) · [Zhihu](https://www.zhihu.com/people/yi-bu-gen-jiang)

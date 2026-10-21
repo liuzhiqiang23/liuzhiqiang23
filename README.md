@@ -1,142 +1,76 @@
-<p align="center">
-  <a href="https://movie.jszzbinfo.cn/poet/"><b>🎓 诗人知识问答与对话系统 · 在线体验（点击直接提问）</b></a><br>
-  <sub>57,607 首全唐诗建图 · 问「杜甫和李白是什么关系」试试 · <a href="https://liuzhiqiang23.github.io/poet-kgqa/">项目展示页</a> · 毕业设计</sub>
-</p>
+# 你好，我是柳志强 · liuzhiqiang23 👋
 
-<p align="center"><b><a href="./README_EN.md">English</a> | 中文</b></p>
+**学生开发者 · AI / LLM 应用探索 · 创意工具与自托管实践**
 
-<p align="center"><a href="https://liuzhiqiang23.github.io/"><b>🌐 我的个人网站：liuzhiqiang23.github.io</b></a></p>
+我喜欢把想法做成能运行的作品：从诗人知识问答、电影数据分析，到浏览器游戏和全息闪卡。在实践中学习，也把部署过程与遇到的问题整理成笔记。
 
-<div align="center">
-  <img src="assets/intro-card.svg" width="100%" alt="liuzhiqiang23 · 全息闪卡工作室：照片 → rembg 四层拆解 → Blender 渲染 → 微信规格交付">
-</div>
+**[🌐 中英文作品集](https://liuzhiqiang23-portfolio.gardenbard4.chatgpt.site/) · [English](./README_EN.md) · [知乎](https://www.zhihu.com/people/yi-bu-gen-jiang)**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Turn+photos+into+holographic+cards+that+move.;rembg+%C2%B7+Blender+%C2%B7+Three.js+%C2%B7+WeChat-ready+GIF+%2F+MP4;Learning+AI+agents+by+deploying+them+for+real." alt="Turn photos into holographic cards that move. rembg, Blender, Three.js, WeChat-ready GIF/MP4. Learning AI agents by deploying them for real.">
-</p>
+作品集提供精选项目与演示入口；这里保留公开源码、技术说明和开发记录。
 
-<p align="center">
-  <a href="https://www.douyin.com/video/7662327456631932322" title="主页 BGM：三枪打死麻辣烫（DJ 版）· 阿厦短剧原声 — 点击去抖音听">
-    <img src="assets/bgm-player.svg" width="470" alt="BGM 播放器：三枪打死麻辣烫 DJ 版 · 阿厦短剧原声，点击前往抖音播放">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/liuzhiqiang23/RuiC-card-skill">
-    <img src="assets/demo-loop.webp" width="52%" alt="全息闪卡演示（动漫主角）：卡片随视角流光、多层视差、可拖拽翻面">
-  </a>
-</p>
+## 精选作品
 
-<p align="center">
-  <sub>👆 会动的 3D 全息闪卡 · 照片/立绘 → 四层拆解 → Blender 240 帧渲染 → 微信可直接发的 GIF/MP4 ·
-  <a href="https://github.com/zai-org/zcode-plugins/pull/21">已打包上架 ZCode 插件市场（PR #21）</a> ·
-  <a href="https://github.com/HRuiCcc/RuiC-card-skill/pull/7">回传上游的修复 PR #7</a> ·
-  <a href="https://github.com/liuzhiqiang23/RuiC-card-skill#安装到-deepseek-harnessdsh">已实测适配 DeepSeek Harness（dsh）</a></sub>
-</p>
+### 01 · 诗人知识问答与对话系统（Poet-KGQA）
 
----
+毕业设计：以 57,607 首《全唐诗》为底座，结合知识图谱、语义检索与大语言模型，提供诗人问答、交游图谱探索和诗人对话。技术包括 Python、Neo4j、FAISS 与 DeepSeek。
 
-# 你好,我是 liuzhiqiang23 👋
+**[在线体验](https://movie.jszzbinfo.cn/poet/)** · 源码目前不提供公开入口。
 
->  AI / LLM 应用探索 | 自托管玩家
+### 02 · 光之巨人 · 方块世界
 
-- 🔭 正在做:**PentAGI 多智能体系统部署实战笔记**(中文教程向,持续更新) + **全息闪卡照片流水线**(rembg 抠图 · Blender 渲染 · 微信规格压制)
-- 🌱 正在学:HarmonyOS 应用开发(ArkTS/DevEco) · LLM 应用开发 · CTF 安全基础
-- 🛠 常用:`Python` `JavaScript` `HTML` `Docker` `Git`
-- ✍️ 技术文章:[知乎 @义不艮将](https://www.zhihu.com/people/yi-bu-gen-jiang) | 掘金 @liuzhiqiang23
+JavaScript / Three.js 3D 体素沙盒生存游戏：白天探索与建造，夜晚守卫神殿、迎战怪兽；贴图、角色与音效由代码程序化生成。建议在电脑浏览器体验。
 
-## 🎮 精选游戏：《重生之我在方块位面当光之巨人》
+**[在线试玩](https://liuzhiqiang23.github.io/light-giant/) · [源码](https://github.com/liuzhiqiang23/light-giant)**
 
-> **3D 体素沙盒生存游戏** —— 类我的世界方块世界 × 变身光之巨人打怪兽
-> **零外部素材**：贴图、角色、怪兽、音效全部由代码程序化生成
+<img src="https://raw.githubusercontent.com/liuzhiqiang23/light-giant/main/screenshots/day-world.jpg" width="720" alt="光之巨人游戏白天方块世界截图">
 
-### ▶ 在线试玩（电脑浏览器打开即玩，无需安装）
+### 03 · 全息闪卡的创作实验
 
-# **[liuzhiqiang23.github.io/light-giant](https://liuzhiqiang23.github.io/light-giant/)**
+围绕 RuiC Card Skill 实践照片分层、Blender 渲染、交互网页和 GIF / MP4 交付。上游作者为 [HRuiCcc](https://github.com/HRuiCcc/RuiC-card-skill)，采用 MIT 许可证；我的工作是工具实践、宿主适配、修复与插件打包。
 
-![白天世界](https://raw.githubusercontent.com/liuzhiqiang23/light-giant/main/screenshots/day-world.jpg)
+**[适配仓库](https://github.com/liuzhiqiang23/RuiC-card-skill) · [ZCode 插件市场 PR #21（待审核）](https://github.com/zai-org/zcode-plugins/pull/21) · [上游修复 PR #7](https://github.com/HRuiCcc/RuiC-card-skill/pull/7)**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/liuzhiqiang23/light-giant/main/screenshots/giant-form.jpg" width="49%" alt="变身光之巨人" />
-  <img src="https://raw.githubusercontent.com/liuzhiqiang23/light-giant/main/screenshots/night-boss.jpg" width="49%" alt="夜晚Boss降临" />
-</p>
+<img src="assets/demo-loop.webp" width="400" alt="全息闪卡动画演示">
 
-**✨ 亮点**：512×512 多生物群系世界（草原/沙漠/密林/雪山/天堂岛）· 巨人战斗系统（能量炮弹/蓄力激光/锁定飞踢/三连拳击/巨大化）· 昼夜玩法循环（白天建造、夜晚守卫神殿、黎明战损复原）· 全程序化音效 · 89 万方块实例 60fps
+## 更多项目与实践
 
-**📦 源码**：[GitHub](https://github.com/liuzhiqiang23/light-giant) · 仓库内含微信小游戏移植版（minigame/）
+| 项目 | 内容与入口 |
+| --- | --- |
+| 电影数据分析与推荐 | 数据清洗、EDA、票房预测、推荐与 Java / Python 接口联调，延伸到微信小程序实践。[源码与文档](https://github.com/liuzhiqiang23/chuanmeishujuguanlixitong)；仓库沿用早期名称，小程序发布状态以实际审核为准。 |
+| 本地大模型与知识问答 | Ollama、LlamaIndex、Flask 与 LangChain 课程实践，涵盖本地模型访问、文档嵌入、检索问答和网页界面。[源码与实践记录](https://github.com/liuzhiqiang23/artificial-intelligent-created-system) |
+| 照片到 GIF 表情包 | 探索形象保真编辑、动画、字幕与体积压缩流程。[工具源码](https://github.com/liuzhiqiang23/gif-sticker-maker-free) |
+| PentAGI 部署实战笔记 | 第三方多智能体系统的部署和学习记录。[阅读笔记](https://github.com/liuzhiqiang23/pentagi--AI--notes) |
+| 小程序开发与部署笔记 | 本地开发、内网穿透、域名、HTTPS、备案流程与踩坑记录。[阅读笔记](https://github.com/liuzhiqiang23/miniprogram-dev-deploy-notes) |
 
----
+## 常用工具与学习方向
 
-## 🎬 我的作品集视频（AI 全自动剪辑）
+Python · Java / Spring Boot · JavaScript · HTML / CSS · Docker · MySQL · Neo4j · FAISS · Git
 
-<p align="center">
-  <a href="assets/gh-reel.mp4">
-    <img src="assets/gh-reel-preview.gif" width="32%" alt="GitHub 作品集竖屏视频预览：主页与作品截图 + 故障风转场 + 科技电子 BGM">
-  </a>
-</p>
-<p align="center">
-  <sub>👆 预览（前 10 秒）· <a href="assets/gh-reel.mp4">▶️ 观看完整版 1080×1920 / 24.6s</a> ·
-  由 AI 代理从截图采集 → ffmpeg 画布 → 剪映草稿 → 导出全流程自动完成 ·
-  <a href="https://zhuanlan.zhihu.com/p/2086965296661784206">制作全流程拆解（知乎）</a></sub>
-</p>
+正在探索：AI / LLM 应用、RAG、创意交互、HarmonyOS / ArkTS 与自托管工具链。
 
-## 📌 精选仓库
+<details>
+<summary>作品集视频与更多演示</summary>
 
-| 仓库 | 说明 |
-|------|------|
-| [light-giant](https://github.com/liuzhiqiang23/light-giant) | 🎮 **3D 体素沙盒游戏《光之巨人》**——[在线试玩](https://liuzhiqiang23.github.io/light-giant/)，零素材全程序化，含微信小游戏版 |
-| [pentagi--AI--notes](https://github.com/liuzhiqiang23/pentagi--AI--notes) | PentAGI 多智能体系统部署实战笔记(中文) |
-| [RuiC-card-skill](https://github.com/liuzhiqiang23/RuiC-card-skill) | 全息闪卡技能(fork 自 [HRuiCcc](https://github.com/HRuiCcc/RuiC-card-skill),MIT;ZCode 插件打包见 PR #21,已实测适配 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)) |
-| [chuanmeishujuguanlixitong](https://github.com/liuzhiqiang23/chuanmeishujuguanlixitong) | 传媒数据管理系统(课程项目) |
-| [artificial-intelligent-created-system](https://github.com/liuzhiqiang23/artificial-intelligent-created-system) | AI 内容创建系统(课程项目) |
+[观看作品集视频](assets/gh-reel.mp4) · [制作过程](https://zhuanlan.zhihu.com/p/2086965296661784206)
 
-## 🐍 贡献贪吃蛇
+<a href="assets/gh-reel.mp4"><img src="assets/gh-reel-preview.gif" width="250" alt="作品集竖屏视频预览"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuzhiqiang23/liuzhiqiang23/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuzhiqiang23/liuzhiqiang23/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/liuzhiqiang23/liuzhiqiang23/output/github-contribution-grid-snake.svg" />
-</picture>
+</details>
 
-## 🏆 连击 / 奖杯
+<details>
+<summary>GitHub 活动与赞赏</summary>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg" />
-    <img alt="streak stats" src="assets/streak-light.svg" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/trophy-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/trophy-light.svg" />
-    <img alt="profile trophy" src="assets/trophy-light.svg" />
-  </picture>
-</p>
+![贡献记录](https://raw.githubusercontent.com/liuzhiqiang23/liuzhiqiang23/output/github-contribution-grid-snake.svg)
 
-## ☕ 赞赏
+<img src="assets/streak-light.svg" alt="GitHub 活动统计">
+<img src="assets/trophy-light.svg" alt="GitHub 奖杯统计">
 
-<div align="center">
-  <img src="assets/wechat-reward.png" width="220" alt="微信赞赏码" />
-  <p><sub>这些笔记与工具如果帮到了你,微信扫码请杯咖啡 ☕</sub></p>
-</div>
+如果笔记与工具帮到了你，可以请我喝杯咖啡。
+
+<img src="assets/wechat-reward.png" width="180" alt="微信赞赏码">
+
+</details>
 
 ---
 
-## 🎓 毕业设计 · 诗人知识问答与对话系统（Poet-KGQA）
-
-> 把《全唐诗》读"厚"：57,607 首诗建图 · Neo4j + FAISS 双轨检索 · BERT NER 消歧 · DeepSeek 证据化生成 · 水墨风三页界面
-
-<p align="center">
-  <a href="https://liuzhiqiang23.github.io/poet-kgqa/">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90-%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E9%A1%B5-9d3b28" alt="项目展示页">
-  </a>&nbsp;
-  <a href="https://github.com/liuzhiqiang23/poet-kgqa">
-    <img src="https://img.shields.io/badge/GitHub-poet--kgqa-24292f" alt="GitHub 仓库">
-  </a>
-</p>
-
-- 🚀 **在线试用**（云服务器部署，长期可用）：[movie.jszzbinfo.cn/poet](https://movie.jszzbinfo.cn/poet/) —— 问"杜甫和李白是什么关系"试试
-- 🖥 **在线展示**：[liuzhiqiang23.github.io/poet-kgqa](https://liuzhiqiang23.github.io/poet-kgqa/) —— 三页界面截图、功能与实验结果
-- 🧪 图谱约束使回答一致性 **66% → 100%**（n=100）；检索消融 **80.0% vs 13.3%**（hit@3）
-- 📜 全唐诗 57,607 首 / 诗人 3,662 位 / 交游边 138 条全部人工复核
+[主作品集](https://liuzhiqiang23-portfolio.gardenbard4.chatgpt.site/) · [早期 GitHub Pages 主页](https://liuzhiqiang23.github.io/) · [知乎](https://www.zhihu.com/people/yi-bu-gen-jiang)
