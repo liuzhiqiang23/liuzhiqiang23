@@ -51,9 +51,9 @@ Python · Java / Spring Boot · JavaScript · HTML / CSS · Docker · MySQL · N
 <details>
 <summary>作品集视频与更多演示</summary>
 
-[观看作品集视频](assets/gh-reel.mp4) · [制作过程](https://zhuanlan.zhihu.com/p/2086965296661784206)
+[观看最新版作品集视频（43 秒）](assets/gh-reel.mp4) · [旧版制作过程](https://zhuanlan.zhihu.com/p/2086965296661784206)
 
-<a href="assets/gh-reel.mp4"><img src="assets/gh-reel-preview.gif" width="250" alt="作品集竖屏视频预览"></a>
+<a href="assets/gh-reel.mp4"><img src="assets/gh-reel-preview.gif" width="480" alt="暗色科技风作品集视频预览，展示电影数据分析、RuiC 互动镭射卡和光之巨人"></a>
 
 </details>
 

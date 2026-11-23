@@ -44,7 +44,7 @@ Python · Java / Spring Boot · JavaScript · HTML / CSS · Docker · MySQL · N
 
 Exploring applied AI / LLMs, RAG, creative interaction, HarmonyOS / ArkTS and self-hosted tools.
 
-[Portfolio video](assets/gh-reel.mp4) · [Production walkthrough](https://zhuanlan.zhihu.com/p/2086965296661784206)
+[Watch the latest portfolio video (43 seconds)](assets/gh-reel.mp4) · [Previous version walkthrough](https://zhuanlan.zhihu.com/p/2086965296661784206)
 
 ---
 
