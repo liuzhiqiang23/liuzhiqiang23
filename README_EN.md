@@ -26,7 +26,7 @@ A JavaScript / Three.js voxel survival sandbox: explore and build by day, defend
 
 Experiments with layered photos, Blender rendering, interactive web viewers and GIF / MP4 delivery. The original project is [HRuiCcc/RuiC-card-skill](https://github.com/HRuiCcc/RuiC-card-skill), licensed under MIT. My work covers hands-on use, host adaptation, fixes and plugin packaging.
 
-**[Adaptation repository](https://github.com/liuzhiqiang23/RuiC-card-skill) · [ZCode marketplace PR #21 — awaiting review](https://github.com/zai-org/zcode-plugins/pull/21) · [Upstream fix PR #7](https://github.com/HRuiCcc/RuiC-card-skill/pull/7)**
+**[Adaptation repository](https://github.com/liuzhiqiang23/RuiC-card-skill) · [Included in the official ZCode plugin repository (v1.1.1)](https://github.com/zai-org/zcode-plugins/tree/main/external_plugins/ruic-card) · [Submission PR #21](https://github.com/zai-org/zcode-plugins/pull/21) · [Upstream fix PR #7](https://github.com/HRuiCcc/RuiC-card-skill/pull/7)**
 
 ## More projects and practice
 
