@@ -28,7 +28,7 @@ JavaScript / Three.js 3D 体素沙盒生存游戏：白天探索与建造，夜�
 
 围绕 RuiC Card Skill 实践照片分层、Blender 渲染、交互网页和 GIF / MP4 交付。上游作者为 [HRuiCcc](https://github.com/HRuiCcc/RuiC-card-skill)，采用 MIT 许可证；我的工作是工具实践、宿主适配、修复与插件打包。
 
-**[适配仓库](https://github.com/liuzhiqiang23/RuiC-card-skill) · [ZCode 插件市场 PR #21（待审核）](https://github.com/zai-org/zcode-plugins/pull/21) · [上游修复 PR #7](https://github.com/HRuiCcc/RuiC-card-skill/pull/7)**
+**[适配仓库](https://github.com/liuzhiqiang23/RuiC-card-skill) · [已收录至 ZCode 官方插件仓库（v1.1.1）](https://github.com/zai-org/zcode-plugins/tree/main/external_plugins/ruic-card) · [提交记录 PR #21](https://github.com/zai-org/zcode-plugins/pull/21) · [上游修复 PR #7](https://github.com/HRuiCcc/RuiC-card-skill/pull/7)**
 
 <img src="assets/demo-loop.webp" width="400" alt="全息闪卡动画演示">
 
